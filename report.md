@@ -7,19 +7,20 @@
 На тестирование затрачено: 0,5 часа
 
 В результате тестирования выявлены следующие дефекты:
-https://github.com/Tokehos/Java-1-2/issues/2
+[Issues](https://github.com/Tokehos/JAVA1-1/issues/1#issue-992076733)
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
- номер карты American Exspress 342314666510138
- номер карты Diners Club 30365963793899
+ * номер карты American Exspress 342314666510138
+ * номер карты Diners Club 30365963793899
 
-В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md Задание 2:
- Ожидаемый результат:
-* номер карты American Exspress 342314666510138 Result is OK
-* номер карты Diners Club 30365963793899 Result is OK
+В качестве тестовых данных использовались данные  [Задание 2](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
+ 
+Ожидаемый результат:
+ * номер карты American Exspress 342314666510138 Result is OK
+ * номер карты Diners Club 30365963793899 Result is OK
 
 
 Тестирование производилось в следующем окружении:
